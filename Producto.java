@@ -1,5 +1,3 @@
-package model;
-
 public class Producto {
     private static int contadorId = 1;
     private int id;

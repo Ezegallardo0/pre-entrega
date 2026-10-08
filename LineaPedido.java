@@ -1,5 +1,3 @@
-package model;
-
 public class LineaPedido {
     private Producto producto;
     private int cantidad;
